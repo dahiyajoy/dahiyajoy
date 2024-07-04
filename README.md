@@ -1,6 +1,5 @@
 ### Hi there 👋, Joy Dahiya
-#### Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/D5616AQGtjoWSn_jgLg/profile-displaybackgroundimage-shrink_350_1400/0/1715502925004?e=1725494400&v=beta&t=YdJBnWPaz9ECst1kCXhWJzOcn8HEJn5B1evXMswxkwY)
+![image](https://github.com/dahiyajoy/dahiyajoy/assets/169536617/dc759d24-5686-44fa-91e2-bbea42634839)
 
 I am Joy, and I expertise in  Machine Learning Models by using predictive data modeling, data processing and data mining algorithms along with experience in Azure-Based Data Automation alongside RPA tools such as Automation Anywhere 360 and Power Automate.
 
