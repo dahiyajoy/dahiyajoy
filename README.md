@@ -4,7 +4,7 @@
 I am actively involved in projects that utilizes Machine Learning Models by creating data regression models, using predictive data modeling, data processing and data mining algorithms along with experience in Azure-Based Data Automation alongside RPA tools such as Automation Anywhere 360 and Power Automate.
 
 
-Technical:
+### Technical:
 
 - Proficient in Python in data manipulation, draw insights, EDA & data visualization.
 - Experience in Machine Learning, Predictive Modeling, Regression, Classification, Time Series Forecasting, Natural language
@@ -20,7 +20,7 @@ Technical:
   Creation and Database Manipulation.
   
 
-Skills:
+### Skills:
 
 PYTHON / Scikit-learn / TensorFlow / Keras / NumPy / SciPy / Pandas / VBScrip / SQL / AUTOMATION ANYWHERE / MS POWER BI / NodeJS / AngularJS / HTML / CSS
 
