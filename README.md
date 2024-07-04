@@ -1,13 +1,13 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/D5616AQGtjoWSn_jgLg/profile-displaybackgroundimage-shrink_350_1400/0/1715502925004?e=1725494400&v=beta&t=YdJBnWPaz9ECst1kCXhWJzOcn8HEJn5B1evXMswxkwY))
+### Hi there 👋, Joy Dahiya
+#### Software Engineer
+![Software Engineer](https://media.licdn.com/dms/image/D5616AQGtjoWSn_jgLg/profile-displaybackgroundimage-shrink_350_1400/0/1715502925004?e=1725494400&v=beta&t=YdJBnWPaz9ECst1kCXhWJzOcn8HEJn5B1evXMswxkwY)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am Joy, and I expertise in  Machine Learning Models by using predictive data modeling, data processing and data mining algorithms along with experience in Azure-Based Data Automation alongside RPA tools such as Automation Anywhere 360 and Power Automate.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PYTHON / DATA ANALYTICS / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI 
 
-- 🔭 I’m currently working as a Software Engineer.
+- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joy-dahiya/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dahiyajoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joy-dahiya/)  
 
