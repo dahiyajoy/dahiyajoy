@@ -1,14 +1,7 @@
 ![image](https://github.com/dahiyajoy/dahiyajoy/assets/169536617/dc759d24-5686-44fa-91e2-bbea42634839)
 
 
-Working as a Software Engineer, I am actively involved in projects that utilizes Machine Learning Models by creating data
-regression models, using predictive data modeling, data processing and data mining algorithms along with experience in Azure-
-Based Data Automation alongside RPA tools such as Automation Anywhere 360 and Power Automate. I expertise in Python
-programming, Predictive Modeling, Clustering Techniques, Deep learning techniques, utilizing IQ Bots, Document Automation Bots,
-Scripting (VBScript and Python) to extract data and Creating Interactive Dashboards to visualize the data using Microsoft Power BI.
-Deploying Al-Driven Robotic Solutions to automate various business processes effectively, I additionally excel in Robust Workflow
-Creation and Solution Delivery. These experiences have honed my technical skills in problem solving and instilled a strong work
-ethic.
+I am actively involved in projects that utilizes Machine Learning Models by creating data regression models, using predictive data modeling, data processing and data mining algorithms along with experience in Azure-Based Data Automation alongside RPA tools such as Automation Anywhere 360 and Power Automate.
 
 
 Technical:
