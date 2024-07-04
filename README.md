@@ -10,8 +10,6 @@ Deploying Al-Driven Robotic Solutions to automate various business processes eff
 Creation and Solution Delivery. These experiences have honed my technical skills in problem solving and instilled a strong work
 ethic.
 
-Skills: PYTHON / DATA ANALYTICS / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI 
-
 Technical:
 - Proficient in Python in data manipulation, draw insights, EDA & data visualization.
 - Experience in Machine Learning, Predictive Modeling, Regression, Classification, Time Series Forecasting, Natural language
@@ -25,6 +23,23 @@ Technical:
 - Capable of using SQL to interact with databases and Microsoft Power BI for building dashboards.
 - Experience in Robotic Process Automation, Cognitive Automation, Data Analysis, Data Manipulation, Interactive Dashboard
   Creation and Database Manipulation.
+
+  Skills:
+
+  PYTHON / DATA ANALYTICS / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI
+
+- Python, Java, SQL       -MS Power BI       -TensorFlow, Keras
+
+
+NodeJS, AngularJS
+Automation Anywhere
+HTML, CSS, JavaScript
+NumPy, SciPy, Pandas
+MS Word, Excel, PowerPoint
+MS Power Automate
+Bootstrap
+Scikit-learn
+VBScrip
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joy-dahiya/)  
