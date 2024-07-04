@@ -24,21 +24,9 @@ Technical:
 - Experience in Robotic Process Automation, Cognitive Automation, Data Analysis, Data Manipulation, Interactive Dashboard
   Creation and Database Manipulation.
 
-  Skills:
+Skills:
 
-  PYTHON / DATA ANALYTICS / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI
-
-- Python, Java, SQL
-- MS Power BI
-- TensorFlow, Keras
-- NodeJS, AngularJS
-- Automation Anywhere
-- HTML, CSS, JavaScript
-- NumPy, SciPy, Pandas
-- MS Word, Excel, PowerPoint
-- MS Power Automate
-- Scikit-learn
-- VBScrip
+  PYTHON / Java / Scikit-learn / TensorFlow / Keras / NumPy / SciPy / Pandas / VBScrip / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI / NodeJS / AngularJS /   HTML / CSS / JavaScript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joy-dahiya/)  
