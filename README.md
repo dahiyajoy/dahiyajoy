@@ -1,5 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Joy, and I expertise in utilising Machine Learning Models by using predictive data modeling, data processing and data mining algorithms along with experience in Azure-Based Data Automation alongside RPA tools such as Automation Anywhere 360 and Power Automate. You can check out my LinkedIn here www.linkedin.com/in/joy-dahiya.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-[![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahiyajoy)](https://github.com/anuraghazra/github-readme-stats)
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working as a Software Engineer.
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/joy-dahiya/)  
+
