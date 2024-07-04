@@ -5,6 +5,7 @@ I am actively involved in projects that utilizes Machine Learning Models by crea
 
 
 Technical:
+
 - Proficient in Python in data manipulation, draw insights, EDA & data visualization.
 - Experience in Machine Learning, Predictive Modeling, Regression, Classification, Time Series Forecasting, Natural language
   Processing (NLP), Computer Vision (CV) and Image segmentation etc.
@@ -20,7 +21,8 @@ Technical:
   
 
 Skills:
-  PYTHON / Java / Scikit-learn / TensorFlow / Keras / NumPy / SciPy / Pandas / VBScrip / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI / NodeJS / AngularJS /   HTML / CSS / JavaScript
+
+PYTHON / Scikit-learn / TensorFlow / Keras / NumPy / SciPy / Pandas / VBScrip / SQL / AUTOMATION ANYWHERE / MS POWER BI / NodeJS / AngularJS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joy-dahiya/)  
