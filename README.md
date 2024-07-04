@@ -10,6 +10,7 @@ Deploying Al-Driven Robotic Solutions to automate various business processes eff
 Creation and Solution Delivery. These experiences have honed my technical skills in problem solving and instilled a strong work
 ethic.
 
+
 Technical:
 - Proficient in Python in data manipulation, draw insights, EDA & data visualization.
 - Experience in Machine Learning, Predictive Modeling, Regression, Classification, Time Series Forecasting, Natural language
@@ -23,9 +24,9 @@ Technical:
 - Capable of using SQL to interact with databases and Microsoft Power BI for building dashboards.
 - Experience in Robotic Process Automation, Cognitive Automation, Data Analysis, Data Manipulation, Interactive Dashboard
   Creation and Database Manipulation.
+  
 
 Skills:
-
   PYTHON / Java / Scikit-learn / TensorFlow / Keras / NumPy / SciPy / Pandas / VBScrip / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI / NodeJS / AngularJS /   HTML / CSS / JavaScript
 
 
