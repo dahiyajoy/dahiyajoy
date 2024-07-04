@@ -28,18 +28,17 @@ Technical:
 
   PYTHON / DATA ANALYTICS / SQL / RPA / AUTOMATION ANYWHERE / MS POWER BI
 
-- Python, Java, SQL       -MS Power BI       -TensorFlow, Keras
-
-
-NodeJS, AngularJS
-Automation Anywhere
-HTML, CSS, JavaScript
-NumPy, SciPy, Pandas
-MS Word, Excel, PowerPoint
-MS Power Automate
-Bootstrap
-Scikit-learn
-VBScrip
+- Python, Java, SQL
+- MS Power BI
+- TensorFlow, Keras
+- NodeJS, AngularJS
+- Automation Anywhere
+- HTML, CSS, JavaScript
+- NumPy, SciPy, Pandas
+- MS Word, Excel, PowerPoint
+- MS Power Automate
+- Scikit-learn
+- VBScrip
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joy-dahiya/)  
