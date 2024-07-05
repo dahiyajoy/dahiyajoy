@@ -1,4 +1,4 @@
-![image](https://github.com/dahiyajoy/dahiyajoy/assets/169536617/06974dad-13a5-4417-9b5b-9c5adfa3831c)
+![image](https://github.com/dahiyajoy/dahiyajoy/assets/169536617/0d55ef8c-bf8f-41ba-8f6a-32f3d7844e86)
 
 
 As a Developer, I am actively involved in projects that utilizes Machine Learning Models by creating data regression models, using predictive data modeling, data processing and data mining algorithms along with experience in Azure-Based Data Automation alongside RPA tools such as Automation Anywhere 360 and Power Automate.
